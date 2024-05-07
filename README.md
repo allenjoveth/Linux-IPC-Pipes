@@ -125,9 +125,9 @@ exit(EXIT_SUCCESS);
 
 # RESULT:
 
-
+```
 The program is executed successfully.
-
+```
 
 
 
